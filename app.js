@@ -1,4 +1,4 @@
-//added new repo and github actions. Testing
+//added new repo and github actions. Testing github action
 
 require("./db/db.js");
 const mongoose = require("mongoose");
